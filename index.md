@@ -19,7 +19,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 ## Links
 
 Here's some words about the book _One Hundred Years..._.
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
 #### The Latest News from [the BBC](www.bbc.com/news)
