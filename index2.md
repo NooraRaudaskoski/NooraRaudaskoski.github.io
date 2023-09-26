@@ -1,10 +1,12 @@
 ## noora web-tehtävä
-##Italics and Bold
+
+## Italics and Bold
 
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
+
 #Header one
 ##Header two
 ###Header three
@@ -13,7 +15,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 ######Header six
 ####Colombian Symbolism in _One Hundred Years of Solitude_
 
-##Links
+## Links
 
 Here's some words about the book _One Hundred Years..._.
 [Search for it.](www.google.com)
@@ -33,7 +35,7 @@ Well, do I have [the website for you][another fun place]!
 [Black]:https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
-##Quotes and lists
+## Quotes and lists
 
 I read this interesting quote the other day:
 
