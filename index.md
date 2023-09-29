@@ -66,7 +66,7 @@ I read this interesting quote the other day:
 
 -----
 
-~~ _Receipt_ ~~
+~~ _Recipe_ ~~
 
 1. Cut the cheese
 2. Slice the tomatoes
