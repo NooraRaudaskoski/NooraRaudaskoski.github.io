@@ -20,21 +20,23 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 Here's some words about the book _One Hundred Years..._.
 [Search for it.](https://www.google.com)
-[You're **really, really** going to want to see this.](www.dailykitten.com)
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
 #### The Latest News from [the BBC](www.bbc.com/news)
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]:www.zombo.com
-[another fun place]:www.stumbleupon.com
+[a fun place]:https://www.zombo.com
+[another fun place]:https://www.stumbleupon.com
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
 ![Black cat][Black]
 
 ![Orange cat][Orange]
 
 [Black]:https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
 [Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 ## Quotes and lists
@@ -53,11 +55,15 @@ I read this interesting quote the other day:
 
 -----
 
+~~ Shopping list ~~
+
 * Flour
 * Cheese
 * Tomatoes
 
 -----
+
+~~ Receipt from my granma, believe me, its good ~~
 
 1. Cut the cheese
 2. Slice the tomatoes
@@ -65,16 +71,21 @@ I read this interesting quote the other day:
 
 -----
 
+~~ Don't buy these, I am allercig ~~
+
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
 
 -----
 
+~~ Have you seen them? ~~
+
 * Calculus
   * A professor
   * Has no hair
   * Often wears green
+    
 * Castafiore
   * An opera singer
   * Has white hair
@@ -100,6 +111,8 @@ Nor did it occur to one of us there
 To doubt they were kneeling then.
 
  -----
+
+~~ My granny thought I need directions like these? _Why would I make a mess?_ ~~
 
 1. Crack three eggs over a bowl.  
 Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
