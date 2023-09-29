@@ -1,6 +1,6 @@
-## noora web-tehtävä
+### noora web-tehtävä
 
-## Italics and Bold
+## _Italics_ and **Bold**
 
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
@@ -63,7 +63,7 @@ I read this interesting quote the other day:
 
 -----
 
-~~ Receipt from my granma, believe me, its good ~~
+~~ _Receipt_ ~~
 
 1. Cut the cheese
 2. Slice the tomatoes
@@ -71,7 +71,7 @@ I read this interesting quote the other day:
 
 -----
 
-~~ Don't buy these, I am allercig ~~
+~~ _Don't_ buy these, **I'm allergic** ~~
 
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
@@ -79,7 +79,7 @@ I read this interesting quote the other day:
 
 -----
 
-~~ Have you seen them? ~~
+## Have you seen them?
 
 * Calculus
   * A professor
@@ -112,7 +112,7 @@ To doubt they were kneeling then.
 
  -----
 
-~~ My granny thought I need directions like these? _Why would I make a mess?_ ~~
+~~ My granny thought I needed directions like these? _Why would I make a mess?_ ~~
 
 1. Crack three eggs over a bowl.  
 Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
